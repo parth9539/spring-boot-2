@@ -1,4 +1,4 @@
-package springBootFull.service;
+package springBoot2.service;
 import java.math.BigInteger;
 import java.security.SecureRandom;
 import java.util.ArrayList;
@@ -7,8 +7,8 @@ import java.util.List;
 
 import org.springframework.stereotype.Component;
 
-import springBootFull.model.Question;
-import springBootFull.model.Survey;
+import springBoot2.model.Question;
+import springBoot2.model.Survey;
 
 @Component
 public class SurveyService {

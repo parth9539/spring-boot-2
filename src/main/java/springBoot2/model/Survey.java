@@ -1,4 +1,4 @@
-package springBootFull.model;
+package springBoot2.model;
 
 import java.util.List;
 
